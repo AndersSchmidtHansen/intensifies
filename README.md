@@ -9,6 +9,7 @@ Intends to turn boring images into intensifies, by the power of jQuery or fail g
 installation
 ---------------------------------------
 
+* View the Codepen example: (http://codepen.io/AndersSchmidtHansen/pen/dmuED)
 * Check pulse, if there then...
 * Copy the minified version to your project (remember jQuery)
 * Sip coffee in an epic way
