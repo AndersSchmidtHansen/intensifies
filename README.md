@@ -20,8 +20,9 @@ how-to-use
 ```
 $(".intensifies").click -> // you can omit this, but this might make your browser mad
   $(this).intensifies
-    text : "Doge" // Change this to whatever, will always be appended with "intensifies"
+    text : "Doge" // change this to whatever, will always be appended with "intensifies"
     intensification : 5 // the higher the value, the more intense it gets!
     dundunduuun : true // for extra jump-scare action dunduns, set this to true
+    color : "red" // change this to something colorful and pretty
 ```
 
