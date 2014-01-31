@@ -18,7 +18,7 @@ how-to-use
 ---------------------------------------
 
 ```
-$(".intensifies").click -> // you can omit this, but this might make your browser mad
+$(".intensifies").click -> // you can omit this, making it run on page load is really not a good idea
   $(this).intensifies
     text : "Doge" // change this to whatever, will always be appended with "intensifies"
     intensification : 5 // the higher the value, the more intense it gets!
