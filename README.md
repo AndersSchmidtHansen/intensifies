@@ -14,11 +14,11 @@ installation
 * Sip coffee in an epic way
 
 
-how-to-use
+how-to-use (coffeescript example)
 ---------------------------------------
 
 ```
-$(".intensifies").click -> // you can omit this, making it run on page load is really not a good idea
+$(".intensifies").click -> // you can omit this, but making it run on page load is really not a good idea
   $(this).intensifies
     text : "Doge" // change this to whatever, will always be appended with "intensifies"
     intensification : 5 // the higher the value, the more intense it gets!
