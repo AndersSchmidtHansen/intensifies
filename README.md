@@ -1,7 +1,9 @@
 intensifies.js
 ==============
 
-Intends to turn boring images into intensifies, by the power of jQuery or fail gloriously
+Intends to turn boring images into intensifies, by the power of jQuery or fail gloriously. Like this...
+
+![intensifies action](http://i.imgur.com/IaLG69W.gif "Intensifies in all its glory")
 
 
 installation
