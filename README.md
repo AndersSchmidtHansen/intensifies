@@ -27,3 +27,7 @@ $(".intensifies").click -> // you can omit this, but making it run on page load 
     color : "red" // change this to something colorful and pretty
 ```
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/AndersSchmidtHansen/intensifies/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
